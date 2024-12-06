@@ -22,7 +22,7 @@ N.B.:
 		__overlay__ {
 			pwm_pins: pwm_pins {
 				brcm,pins = <18 19>;
-				brcm,function = <2 2>; /* Alt5 */
+				brcm,function = <5 5>; /* Alt5 */
 			};
 		};
 	};
